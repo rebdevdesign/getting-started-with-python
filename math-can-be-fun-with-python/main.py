@@ -4,4 +4,4 @@ pay=3800
 expenses=2200
 print(expenses-pay)
 
-print("Slow and steady wins at Python.")
+print("Hoping for a python win!")
